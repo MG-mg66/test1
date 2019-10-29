@@ -27,4 +27,10 @@
 </body>
 </html>
 
-
+<html>
+<body>
+<center>
+<H1><%=new java.util.Date()%></H1>
+</center>
+</body>
+</html>
